@@ -4,7 +4,8 @@ def run_guessing_game()
   
   if input == r_num
     puts "You guessed the correct number!"
-  elsif
+  elsif input != r_num
+    puts
 else
 end
   

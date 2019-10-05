@@ -3,7 +3,7 @@ def run_guessing_game()
   input = gets
   
   if input == r_num
-    puts ""
+    puts "You guessed the correct number!"
   elsif
 else
 end
